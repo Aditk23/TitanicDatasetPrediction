@@ -17,7 +17,6 @@ embarked : Port of Embarkation ,
 
 
 Major Steps in project:
-
 1)Reading dataset : Kaggle has provided 2 seperate csv files for train and test data.
 2)Data Cleaning : Mainly dealt with missing values in this part.
 3)Data Exploring : Visualizing data and selecting the features best suitable for accurate prediction (Feature engineering).
